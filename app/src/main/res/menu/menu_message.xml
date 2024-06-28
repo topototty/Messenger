@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete_for_me"
+        android:title="Удалить у меня"/>
+    <item
+        android:id="@+id/delete_for_everyone"
+        android:title="Удалить для всех"/>
+</menu>
